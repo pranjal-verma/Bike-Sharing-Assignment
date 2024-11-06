@@ -1,4 +1,4 @@
-# Project Name
+# Bike Sharing Linear Regression
 > A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
 
@@ -29,10 +29,6 @@ y=0.243654+0.232307⋅yr−0.000584⋅holiday+0.093988⋅workingday+0.440882⋅t
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
